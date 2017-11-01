@@ -1,0 +1,7 @@
+ical:
+  url:  "https://example.com/ical.ics"
+caldav:
+  url: "https://example.com/caldav"
+  username: "admin"
+  password: "1234"
+  calendar: "MyCalendar"
